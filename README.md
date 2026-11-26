@@ -73,8 +73,7 @@ The dashboard provides an interactive overview of sales performance, including p
 
 The City Slicer allows users to explore sales performance by selecting individual or multiple cities.
 
-![Filtered Dashboard](İmages/dashboard_filtered.png)
-
+![Filtered Dashboard](İmages/dashboard_filtered%26business_recommendations.png)
 ## Key Business Insights
 
 - Phone generated the highest revenue at ₺90,000.
@@ -84,8 +83,7 @@ The City Slicer allows users to explore sales performance by selecting individua
 - Electronics generated 91.36% of total revenue despite having fewer units sold than Accessories.
 - Revenue decreased by 27.64% in February and recovered by 44.75% in March.
 
-![Business Insights](İmages/business_insights.png)
-
+![Business Insights](İmages/business_insights%26.png)
 ## Business Recommendations
 
 - Review inventory levels for high-revenue products.
@@ -95,8 +93,7 @@ The City Slicer allows users to explore sales performance by selecting individua
 - Investigate the February revenue decline.
 - Collect product cost data to evaluate profitability and profit margins.
 
-![Business Recommendations](İmages/business_recommendations.png)
-
+![Business Recommendations](İmages/dashboard_filtered%26business_recommendations2.png)
 ## Technical Challenges & Solutions
 
 During dashboard development, a Slicer persistence issue was identified. Troubleshooting, workbook inspection, and internal file corrections were used to resolve the issue. The dashboard was subsequently tested to verify filtering functionality and successful saving.
@@ -111,7 +108,7 @@ During dashboard development, a Slicer persistence issue was identified. Trouble
 ## Project Files
 
 - [Excel Workbook](Sales_Data_Analysis_Fixed.xlsx)
-- Dashboard screenshots
+-  Dashboard screenshots
 - Business insights and recommendations
 
 For the full interactive experience, download the Excel workbook and open it in Microsoft Excel.
