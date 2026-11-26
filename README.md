@@ -67,13 +67,13 @@ The dataset was created for educational and portfolio purposes.
 
 The dashboard provides an interactive overview of sales performance, including product revenue, monthly trends, city performance, and category revenue distribution.
 
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](İmages/dashboard.png)
 
 ### Dynamic City Filtering
 
 The City Slicer allows users to explore sales performance by selecting individual or multiple cities.
 
-![Filtered Dashboard](images/dashboard_filtered.png)
+![Filtered Dashboard](İmages/dashboard_filtered.png)
 
 ## Key Business Insights
 
@@ -84,7 +84,7 @@ The City Slicer allows users to explore sales performance by selecting individua
 - Electronics generated 91.36% of total revenue despite having fewer units sold than Accessories.
 - Revenue decreased by 27.64% in February and recovered by 44.75% in March.
 
-![Business Insights](images/business_insights.png)
+![Business Insights](İmages/business_insights.png)
 
 ## Business Recommendations
 
@@ -95,7 +95,7 @@ The City Slicer allows users to explore sales performance by selecting individua
 - Investigate the February revenue decline.
 - Collect product cost data to evaluate profitability and profit margins.
 
-![Business Recommendations](images/business_recommendations.png)
+![Business Recommendations](İmages/business_recommendations.png)
 
 ## Technical Challenges & Solutions
 
@@ -110,7 +110,7 @@ During dashboard development, a Slicer persistence issue was identified. Trouble
 
 ## Project Files
 
-- [Excel Workbook](Sales_Data_Analysis.xlsx)
+- [Excel Workbook](Sales_Data_Analysis_Fixed.xlsx)
 - Dashboard screenshots
 - Business insights and recommendations
 
